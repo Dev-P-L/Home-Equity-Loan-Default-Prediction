@@ -1,0 +1,14 @@
+New_Name,Variable_Type,Meaning
+y,Factors: “default” or “loan_repaid”,Outcome
+loan,Double-precision floating point number,Amount of the loan request
+mort_due,Double-precision floating point number,Amount due on existing mortgage
+prop_val,Double-precision floating point number,Value of current property
+reason,Factors: “DebtCon” = debt consolidation  and “HomeImp” = home improvement,DebtCon = debt consolidation and HomeImp = home improvement
+job,"Factors: “Mgr”, “Office”, “Other”, “ProfExe”, “Sales” or “Self” ",Six occupational categories
+job_years,Double-precision floating point number,Years at present job
+derog,Integer,Number of major derogatory reports
+delinq,Integer,Number of delinquent credit lines
+oldest_trade,Integer,Age of oldest trade line in months
+recent_cred,Integer,Number of recent credit lines
+credits,Integer,Number of credit lines
+debt_to_inc,Double-precision floating point number,Debt-to-income ratio
