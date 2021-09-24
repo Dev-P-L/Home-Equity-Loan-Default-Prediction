@@ -7,13 +7,15 @@
 - hmeq.csv contains the dataset.
 - Attribute_Description.csv is a succinct description of all attributes.
 
-Wishing to visualize hmeq_Final_Report.html?
+* Wishing to visualize hmeq_Final_Report.html?
 
-* You could open it in GitHub Desktop.
+  * You could open it in GitHub Desktop.
 
-* Alternatively, you could use the URL https://rawcdn.githack.com/Dev-P-L/Home-Equity-Loan-Default-Prediction/95a8f9cb17f2fa06e10916c16370d67ce3b39c8d/hmeq_Final_Report.html which, when activated, delivers Report.html to the browser with the correct Content-Type headers and not with Content-Type of text/plain. The URL has been obtained by introducing the GitHub URL of hmeq_Final_Report.html into https://raw.githack.com/ , as suggested in https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source .
+  * Alternatively, you could use the URL https://rawcdn.githack.com/Dev-P-L/Home-Equity-Loan-Default-Prediction/95a8f9cb17f2fa06e10916c16370d67ce3b39c8d/hmeq_Final_Report.html which, when activated, delivers Report.html to the browser with the correct Content-Type headers and not with Content-Type of text/plain. The URL has been obtained by introducing the GitHub URL of hmeq_Final_Report.html into https://raw.githack.com/ , as suggested in https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source .
 
-* Alternatively again, you could knit hmeq_Final_Report.html or ask me by email for a copy of hmeq_Final_Report.html.
+  * Alternatively again, you could knit hmeq_Final_Report.html or ask me by email for a copy of hmeq_Final_Report.html.
+
+<br>
 
 ## Executive Summary
 
