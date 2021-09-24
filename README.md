@@ -1,5 +1,7 @@
 # Home_Equity_Loan_Default_Prediction
 
+<br>
+
 ## Files
 
 - hmeq_Final_Report.html is the final report in this project.
@@ -11,7 +13,7 @@
 
   * You could open it in GitHub Desktop.
 
-  * Alternatively, you could use the URL https://rawcdn.githack.com/Dev-P-L/Home-Equity-Loan-Default-Prediction/95a8f9cb17f2fa06e10916c16370d67ce3b39c8d/hmeq_Final_Report.html which, when activated, delivers Report.html to the browser with the correct Content-Type headers and not with Content-Type of text/plain. The URL has been obtained by introducing the GitHub URL of hmeq_Final_Report.html into https://raw.githack.com/ , as suggested in https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source .
+  * Alternatively, you could use the URL https://rawcdn.githack.com/Dev-P-L/Home-Equity-Loan-Default-Prediction/95a8f9cb17f2fa06e10916c16370d67ce3b39c8d/hmeq_Final_Report.html which, when activated, delivers hmeq_Final_Report.html to the browser with the correct Content-Type headers and not with Content-Type of text/plain. The URL has been obtained by introducing the GitHub URL of hmeq_Final_Report.html into https://raw.githack.com/ , as suggested in https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source .
 
   * Alternatively again, you could knit hmeq_Final_Report.html or ask me by email for a copy of hmeq_Final_Report.html.
 
@@ -28,6 +30,8 @@ On the other hand, the subset with incomplete predictor information has been dea
 The dual validation process delivered global performance metrics of 84 % sensitivity and 61 % precision on the global validation set, which largely exceeded the global target of 75-50.
 
 The whole machine learning model could be rather easily parameterized, in e.g. a dashboard, to aim at different trade-offs between sensitivity and precision. We leave this promising avenue of research to the future.
+
+<br>
 
 ## TAGS
 machine learning, classification, missing values, eXtreme Gradient Boosting, AdaBoost Classification Trees, Random Forests, probability threshold, ensemble models, recall-precision curves, R; home equity loans, finance, banking
