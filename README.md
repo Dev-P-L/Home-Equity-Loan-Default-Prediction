@@ -7,6 +7,8 @@
 - hmeq.csv contains the dataset.
 - Attribute_Description.csv is a succinct description of all attributes.
 
+
+
 ## Executive Summary
 
 Welcome to this data science project dedicated to default prediction on home equity loans. Data have been downloaded from the Kaggle website: https://www.kaggle.com/ajay1735/hmeq-data . Two avenues of modeling have been opened up due to predictor information being missing in approximately 2,500 observations out of 6,000, as evidenced in data profiling.
