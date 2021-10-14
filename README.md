@@ -9,7 +9,7 @@
 - *hmeq.csv* contains the dataset.
 - *Attribute_Description.csv* is a succinct description of all attributes.
 
-* Wishing to visualize *hmeq_Final_Report.html*?
+Wishing to visualize *hmeq_Final_Report.html*?
 
   * You could activate the hyperlink *https://dev-p-l.github.io/Home-Equity-Loan-Default-Prediction/hmeq_Final_Report.html* .
   
