@@ -12,9 +12,7 @@
 Wishing to visualize *hmeq_Final_Report.html*?
 
   * You could activate the hyperlink *https://dev-p-l.github.io/Home-Equity-Loan-Default-Prediction/hmeq_Final_Report.html* .
-  
   * Alternatively, you could open it in GitHub Desktop.
-
   * Alternatively again, you could knit *hmeq_Script.Rmd* or ask me by email for a copy of *hmeq_Final_Report.html* .
 
 <br>
