@@ -7,8 +7,6 @@ https://dev-p-l.github.io/Home-Equity-Loan-Default-Prediction/hmeq_Final_Report.
 # Swift Presentation on Project with Source Code about
 # Home Equity Loan Default Prediction
 
-<br>
-
 ## Files
 
 - *hmeq_Final_Report.html* is the final report in this project.
