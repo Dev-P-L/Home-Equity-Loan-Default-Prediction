@@ -1,7 +1,11 @@
 # Access to HTML Output Document
 https://dev-p-l.github.io/Home-Equity-Loan-Default-Prediction/hmeq_Final_Report.html
 
-# Home_Equity_Loan_Default_Prediction
+<br>
+<br>
+
+# Swift Presentation on Project with Source Code about
+# Home Equity Loan Default Prediction
 
 <br>
 
@@ -20,7 +24,7 @@ Wishing to visualize *hmeq_Final_Report.html*?
 
 <br>
 
-## Executive Summary
+## Content
 
 Welcome to this data science project dedicated to default prediction on home equity loans. Data have been downloaded from the Kaggle website: https://www.kaggle.com/ajay1735/hmeq-data . Two avenues of modeling have been opened up due to predictor information being missing in approximately 2,500 observations out of 6,000, as evidenced in data profiling.
 
@@ -35,5 +39,6 @@ The whole machine learning model could be rather easily parameterized, in e.g. a
 <br>
 
 ## TAGS
+
 machine learning, classification, missing values, eXtreme Gradient Boosting, AdaBoost Classification Trees, Random Forests, probability threshold, ensemble models, recall-precision curves, R; home equity loans, finance, banking
 
