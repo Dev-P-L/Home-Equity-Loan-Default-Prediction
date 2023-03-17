@@ -1,0 +1,14 @@
+New_Name,Meaning
+y,“Default” or “Repaid”
+loan,Amount of the loan request
+mort_due,Mortgage balance due <br> (amount due on main mortgage)
+prop_val,Property current market value
+reason,DebtCon = debt consolidation <br> HomeImp = home improvement
+job,Six occupational categories
+job_years,Years at present job
+derog,Number of major derogatory reports
+delinq,Number of delinquent credit lines
+oldest_trade,Age of oldest trade line in months
+recent_cred,Number of recent credit lines
+credits,Number of credit lines
+debt_to_inc,Debt-to-income ratio
